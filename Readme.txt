@@ -9,5 +9,5 @@
   * unzip
   * wget
 
-  build as: make build
+  build as: make
   or test using: make test
