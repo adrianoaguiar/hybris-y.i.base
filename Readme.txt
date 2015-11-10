@@ -9,4 +9,5 @@
   * unzip
   * wget
 
-  build as: docker build -t y.i.base .
+  build as: make build
+  or test using: make test
