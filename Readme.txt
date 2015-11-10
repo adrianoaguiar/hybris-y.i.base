@@ -5,7 +5,7 @@
   This image creates a Ubuntu based docker container with these
   components installed:
 
-  * openjdk-7-jre-headless
+  * oracle-java8-installer
   * unzip
   * wget
 
